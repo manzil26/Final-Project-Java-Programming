@@ -1,0 +1,6 @@
+name: w, score: 1
+name: q, score: 2
+
+
+name: a, score: 0
+name: b, score: 1
