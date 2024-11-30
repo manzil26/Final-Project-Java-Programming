@@ -1,6 +1,6 @@
 /**
  * The Board class models the TTT game-board of 3x3 cells.
- */
+ *////
 public class Board {  // save as "Board.java"
     // Define named constants for the grid
     public static final int ROWS = 3;
